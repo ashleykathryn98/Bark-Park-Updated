@@ -1,0 +1,48 @@
+body {
+    scroll-behavior: smooth;
+}
+
+li {
+    font-size: x-large;
+}
+
+h2 {
+
+    position: absolute;
+    align-items: center;
+    font-size: large;
+    margin-left: 1020px;
+    margin-top: -180px;
+    color: black;
+    z-index: 100;
+}
+
+h3 {
+    position: absolute;
+    align-items: center;
+    font-size: medium;
+    margin-left: 1030px;
+    margin-top: -150px;
+    color: black;
+    z-index: 100;
+}
+
+h4 {
+    position: absolute;
+    justify-content: center;
+    font-size: large;
+    margin-left: 750px;
+    margin-top: -180px;
+    color: black;
+    z-index: 100;
+}
+
+h5 {
+    position: absolute;
+    justify-content: center;
+    font-size: medium;
+    margin-left: 760px;
+    margin-top: -150px;
+    color: black;
+    z-index: 100;
+}
